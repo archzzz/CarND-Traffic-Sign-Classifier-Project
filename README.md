@@ -173,24 +173,28 @@ For the first image, the model is relatively sure that this is a stop sign (prob
 
 
 For the second image 
+
 | Probability         	|     Prediction	        					| 
 |:---------------------:|:---------------------------------------------:| 
 | 0.99  	| Keep right					| 
 
 
 For the third image 
+
 | Probability         	|     Prediction	        					| 
 |:---------------------:|:---------------------------------------------:| 
 | 0.99  	| Speed limit (50km/h)			| 
 
 
 For the fourth image 
+
 | Probability         	|     Prediction	        					| 
 |:---------------------:|:---------------------------------------------:| 
 | 0.99  	| No passing									| 
 
 
 For the fifth image 
+
 | Probability         	|     Prediction	        					| 
 |:---------------------:|:---------------------------------------------:| 
 | 0.99  	| Priority road							| 
